@@ -35,6 +35,6 @@ By clicking an image you increase your score by the value of the clicked image
 * Miss-click penalty : -4pt
 
 ## Gallery
-![](Screenshot/Start_Screen.png)
-![](Screenshot/Gameplay1.png)
-![](Screenshot/Gameplay2.png)
+![Image error](Screenshot/Start_Screen.png)
+![Image error](Screenshot/Gameplay1.png)
+![Image error](Screenshot/Gameplay2.png)
